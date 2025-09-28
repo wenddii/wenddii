@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm wendwosen tessema 👋
 
-<!--
-**wenddii/wenddii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer passionate about **frontend development** and learning **full-stack development**.  
+Currently exploring **java, HTML, and css.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student in Information Systems  
+- 💻 Learning frontend & backend development  
+- 🏀 Enjoy basketball and staying active  
+- 🌱 Always learning and exploring new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Java,HTML, CSS  
+- **Frameworks & Libraries:** React (learning), JavaFX  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, GitHub, VS Code  
+
+---
+
+## 💼 Projects
+school managment system on java.
+prototype for an offline learning app.
+
+- **https://sites.google.com/view/wendwosen-tessema/home** – My personal website showcasing my learning journey.  
+ 
+- **Front-end Mini Projects** – Simple websites built while learning HTML/CSS/JS.
+
+*(Link each project if you have it on GitHub)*  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/wenddii 
+- Email: wendwosen03@gmail.com
+## ⚡ Fun Fact
+I’m passionate about **learning, coding, and improving myself every day**.
