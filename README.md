@@ -1,7 +1,7 @@
 # Hi, I'm wendwosen tessema 👋
 
-I'm an aspiring software developer passionate about frontend development and learning full-stack development.  
-Currently exploring **java, HTML, and css
+I'm a junior software developer passionate about frontend development and learning full-stack development.  
+Currently exploring phton,c#,java,HTMl and CSS
 
 ## 🚀 About Me
 - 🎓 Student in Information Systems  
@@ -10,14 +10,14 @@ Currently exploring **java, HTML, and css
 - 🌱 Always learning and exploring new technologies  
 
 ## 🛠️ Skills
-- Languages:Java,HTML, CSS  
-- Tools: Git, GitHub, VS Code  
+- Languages:Java,HTML, CSS,  
+- Tools: Git, GitHub, VS Code,Visual Studio
 
 ---
 
 ## 💼 Projects
 school managment system on java.
-prototype for an offline learning app.
+account reistering system on c#.
 
 - https://sites.google.com/view/wendwosen-tessema/home** – My personal website showcasing my learning journey.  
  
