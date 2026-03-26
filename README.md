@@ -10,7 +10,7 @@ Currently exploring phton,c#,java,HTMl and CSS
 - 🌱 Always learning and exploring new technologies  
 
 ## 🛠️ Skills
-- Languages:Java,HTML, CSS,  
+- Languages:Java,django,python,react
 - Tools: Git, GitHub, VS Code,Visual Studio
 
 ---
