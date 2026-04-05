@@ -1,30 +1,39 @@
-# Hi, I'm wendwosen tessema 👋
+# Hi, I'm Wendwosen Tessema 👋  
 
-I'm a junior software developer passionate about frontend development and learning full-stack development.  
-Currently exploring phton,c#,java,HTMl and CSS
-
-## 🚀 About Me
-- 🎓 Student in Information Systems  
-- 💻 Learning frontend & backend development  
-- 🏀 Enjoy basketball and staying active  
-- 🌱 Always learning and exploring new technologies  
-
-## 🛠️ Skills
-- Languages:Java,django,python,react
-- Tools: Git, GitHub, VS Code,Visual Studio
+I’m a software developer focused on building real-world AI-driven applications, especially in education.  
+Currently working on full-stack systems that combine intelligent backends with practical user experiences.
 
 ---
 
-## 💼 Projects
-school managment system on java.
-account reistering system on c#.
+## 🚀 About Me  
+- 🎓 Information Systems student  
+- 💡 Building an AI-powered personalized learning platform  
+- ⚙️ Focused on backend systems, APIs, and scalable architecture  
+- 🌱 Actively improving in full-stack development and system design  
 
-- https://sites.google.com/view/wendwosen-tessema/home** – My personal website showcasing my learning journey.  
- 
-- Front-end Mini Projects– Simple websites built while learning HTML/CSS/JS.
+---
 
-## 📫 Contact Me
-- GitHub: https://github.com/wenddii 
-- Email: wendwosen03@gmail.com
-## ⚡ Fun Fact
-I’m passionate about learning, coding, and improving myself every day.
+## 🛠️ Skills  
+- Languages: Python,Java, C#  
+- Frameworks & Tech: Django, React, 
+- Tools: Git, GitHub, VS Code, Visual Studio  
+- Core Focus: Backend development, API design, AI integration  
+
+---
+
+## 💼 Projects  
+
+### 🔹 AI Learning Platform (Hackathon Project)  
+An intelligent learning system that adapts to a student’s level of understanding.  
+- Allows users to upload study materials (PDFs)  
+- AI provides personalized explanations based on user level  
+- Focused on solving learning gaps in underserved environments  
+
+## 📫 Contact  
+- GitHub: https://github.com/wenddii  
+- Email: wendwosen03@gmail.com  
+
+---
+
+## ⚡ Focus  
+I’m not just learning how to code — I’m focused on building systems that solve real problems, especially in education through AI.
