@@ -1,4 +1,4 @@
-Hi, I'm Wendwosen Tessema muluneh 👋
+Hi, I'm Wendwosen Tessema  👋
 
 I'm a Software Engineering student and backend developer passionate about building software that solves real business problems.
 
