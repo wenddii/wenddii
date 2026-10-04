@@ -1,84 +1,193 @@
-Hi, I'm Wendwosen Tessema  👋
+<h1 align="center">Hi, I'm Wendwosen Tessema 👋</h1>
 
-I'm a Software Engineering student and backend developer passionate about building software that solves real business problems.
+<p align="center">
+  <b>Backend Developer • Software Engineering Student • Product Builder</b>
+</p>
 
-Currently, I'm focused on designing scalable backend systems, building full-stack applications, and turning business ideas into real products. Alongside coding, I'm documenting my journey as I grow into a software engineer and entrepreneur.
+<p align="center">
+  I build backend systems, business software, and real-world products while documenting my journey toward becoming a stronger software engineer.
+</p>
 
-🚀 About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wenddii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-* 🎓 Information Systems Student
-* 💻 Backend Developer specialising in Django & Django REST Framework
-* 🚀 Building full-stack web and mobile applications
-* 🏗️ Passionate about SaaS products, ERP systems and business software
-* 📹 Sharing my software engineering journey on YouTube
-* 🌱 Continuously learning software architecture, system design and product development
+---
 
-🛠️ Tech Stack
+## 👨‍💻 About Me
 
-Languages
+- 🎓 Information Systems student
+- 💻 Backend developer specializing in **Python, Django & Django REST Framework**
+- 🏗️ Building **ERP systems, SaaS products, APIs and business software**
+- 🐹 Currently learning **Go** and strengthening my software engineering fundamentals
+- 🧩 Practicing **Data Structures & Algorithms** through LeetCode
+- 🗄️ Experienced with **PostgreSQL, SQLite and database design**
+- 🚀 Interested in **system design, scalable backend architecture and product development**
+- 💼 Building software through **Harbe Digital Solutions**
+- 📹 Documenting my journey as a software engineer and entrepreneur
+- 🌍 Based in Ethiopia
 
-* Python
-* JavaScript
-* HTML
-* CSS
+---
 
-Frameworks & Technologies
+## 🛠️ Tech Stack
 
-* Django
-* Django REST Framework
-* React
-* Flutter
-* PostgreSQL
-* SQLite
+### Languages
 
-Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,js,html,css" />
+</p>
 
-* Git
-* GitHub
-* VS Code
-* Postman
-* Cloudinary
-* Neon PostgreSQL
+### Backend
 
-💼 Current Projects
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
+</p>
 
-🏥 Pharmacy ERP
+### Databases
 
-Building a pharmacy management system focused on inventory, sales, purchasing and business operations.
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb" />
+</p>
 
-🏘️ Delala Property Platform
+### Frontend & Mobile
 
-Backend Lead & Project Manager for a property listing platform developed during my internship.
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,tailwind" />
+</p>
 
-📱 Orthodox Wallpaper App
+### Tools & Infrastructure
 
-A mobile application delivering beautiful Orthodox wallpapers with a smooth user experience.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,vercel" />
+</p>
 
-🌐 Client Websites
+---
 
-Building modern, responsive websites for businesses and organisations.
+## 🚀 Current Projects
 
-🎯 Current Focus
+### 💊 Pharmacy ERP
 
-* Building production-ready backend systems
-* Creating scalable business software
-* Learning full-stack product development
-* Building SaaS applications from idea to deployment
-* Growing as a software engineer and entrepreneur
+Building a pharmacy management system focused on real business operations.
 
-📈 2026 Goals
+- Inventory management
+- Stock tracking
+- Sales
+- Purchasing
+- Business operations
+- Future multi-branch support
 
-* Build and launch my first SaaS product
-* Strengthen my backend engineering skills
-* Contribute to impactful real-world projects
-* Grow my personal brand by documenting my journey
-* Continue building software that solves meaningful problems
+The goal is to build practical software for Ethiopian businesses.
 
-📫 Connect With Me
+### 🏢 Harbe Digital Solutions
 
-* GitHub: https://github.com/wenddii
-* Email: [wendwosen03@gmail.com](mailto:wendwosen03@gmail.com)
+Building software products and digital solutions for businesses.
 
-⚡ Philosophy
+Focused on:
 
->"I don't just want to write code. I want to build products, solve real problems, and create technology that makes businesses and people's lives better."
+- Business management systems
+- ERP software
+- SaaS products
+- Custom software
+- Backend systems
+- Digital transformation
+
+### 🏘️ Delala Property Platform
+
+A property marketplace connecting property owners and customers.
+
+My role included:
+
+- Backend development
+- REST API development
+- Authentication
+- Database design
+- Property management
+- Project management
+
+Built with **Django REST Framework, PostgreSQL, JWT and React**.
+
+### 🌐 Client Projects
+
+Building modern websites and software systems for businesses and organizations.
+
+---
+
+## 🧠 Currently Learning
+
+- 🐹 Go
+- 🧩 Data Structures & Algorithms
+- 🏗️ Software Architecture
+- 🏛️ System Design
+- 🔐 Backend Security & Authentication
+- 🗄️ Advanced Database Design
+- 🚀 Production Deployment
+- 🤖 AI-assisted software development
+
+---
+
+## 📈 My Engineering Journey
+
+I started by focusing heavily on Django and building web applications.
+
+Now I'm going deeper into software engineering fundamentals rather than only learning frameworks.
+
+My current path:
+
+**Django → Backend Engineering → APIs & Databases → Go → DSA → System Design → Scalable Software**
+
+I'm interested in understanding not just how to make software work, but why it works and how to build it properly.
+
+---
+
+## 🎯 2026 Goals
+
+- 🐹 Become comfortable building software with Go
+- 🧩 Solve LeetCode problems consistently
+- 🏗️ Become a stronger backend engineer
+- 🧠 Learn system design and software architecture
+- 🚀 Build and launch a SaaS product
+- 💼 Grow Harbe Digital Solutions
+- 🌍 Build software used by real businesses
+- 📹 Grow my personal brand by documenting my journey
+- 🤝 Contribute to meaningful open-source projects
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wenddii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenddii&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wenddii&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/wenddii">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:wendwosen03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ⚡ Philosophy
+
+> "I don't just want to write code. I want to understand systems, solve real problems, and build products that people actually use."
+
+---
+
+<p align="center">
+  <i>Building. Learning. Shipping. Repeating.</i>
+</p>
