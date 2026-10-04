@@ -8,11 +8,6 @@
   I build backend systems, business software, and real-world products while documenting my journey toward becoming a stronger software engineer.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wenddii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -64,19 +59,6 @@
 ---
 
 ## 🚀 Current Projects
-
-### 💊 Pharmacy ERP
-
-Building a pharmacy management system focused on real business operations.
-
-- Inventory management
-- Stock tracking
-- Sales
-- Purchasing
-- Business operations
-- Future multi-branch support
-
-The goal is to build practical software for Ethiopian businesses.
 
 ### 🏢 Harbe Digital Solutions
 
